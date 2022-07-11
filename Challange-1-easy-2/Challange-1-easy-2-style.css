@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #cbd2d9;
+}
+
+#main-content{
+    background-color: #ffffff;
+    border-radius: 50px;
+    margin: 300px;
+    padding: 50px;
+}
+
+#main-content h2{
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 32px;
+    margin-top: 5px;
+}
+
+#main-content h3{
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 16px;
+    padding-top: 40px;
+    padding-bottom: 45px;
+    margin-bottom: 35px;
+    color:#babcbe ;
+}
+
+.withBottomBorder{
+    font-family: Arial;
+    font-size: 16px;
+    padding-top: 60px;
+    padding-bottom: 22px;
+    border-bottom: solid #e2e6ea;
+}
+
+ #section-content h2{
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 32px;
+    position: absolute;
+    margin-top:-5px;
+ }  
+
+/* #section-content h3{
+    font-family: Arial;
+    font-size: 16px;
+    padding-top: 60px;
+    padding-bottom: 22px;
+    border-bottom: solid #e2e6ea;
+} */
+
+.withoutBorder{
+    font-family: Arial;
+    font-size: 16px;
+    padding-top: 60px;
+    padding-bottom: 22px;
+    
+    border: hidden;
+}
+
+.exitButtonText{
+    font-weight: bold;
+    color: #616e7c;
+    font-size: 16px;
+}
+.buttonText{
+    color:#ffffff;
+    
+}
+
+.exitButton{
+    padding: 5px;
+    background-color: #ffffff;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-left: 905px;
+    border: hidden;
+}
+
+.customButton-1{
+    padding: 5px;
+    background-color: #616e7c;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 710px;
+    border: hidden;
+}
+.customButton-2{
+    padding: 5px;
+    background-color: #616e7c;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 878px;
+    border: hidden;
+}
+.customButton-3{
+    padding: 5px;
+    background-color: #616e7c;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 680px;
+    border: hidden;
+}
+.customButton-4{
+    padding: 5px;
+    background-color: #616e7c;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 925px;
+    border: hidden;
+}
+
+
